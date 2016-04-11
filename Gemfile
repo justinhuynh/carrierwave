@@ -14,7 +14,7 @@ gem 'foundation-rails'
 gem 'devise'
 gem 'dotenv-rails'
 
-# gem 'carrierwave'
+gem 'carrierwave'
 # gem 'fog'
 
 group :test do
