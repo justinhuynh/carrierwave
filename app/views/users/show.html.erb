@@ -1,0 +1,4 @@
+<%= current_user.email %>
+<%= image_tag(current_user.profile_photo) %>
+
+<%= link_to 'Sign Out', destroy_user_session_path, method: :delete %>

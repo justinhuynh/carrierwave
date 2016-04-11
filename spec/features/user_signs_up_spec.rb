@@ -7,6 +7,7 @@ feature "user signs up" do
     fill_in "Email", with: "test@test.com"
     fill_in "Password", with: "Password2"
     fill_in "Password confirmation", with: "Password2"
+
     attach_file "Profile Photo", "#{Rails.root}/spec/support/images/example_photo.png"
     click_on "Sign up"
 

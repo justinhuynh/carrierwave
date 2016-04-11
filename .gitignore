@@ -12,3 +12,4 @@
 !/log/.keep
 /tmp
 /support/.DS_Store
+/public/uploads
