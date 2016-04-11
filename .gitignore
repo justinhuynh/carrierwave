@@ -13,3 +13,4 @@
 /tmp
 /support/.DS_Store
 /public/uploads
+.env

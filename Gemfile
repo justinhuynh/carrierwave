@@ -15,7 +15,7 @@ gem 'devise'
 gem 'dotenv-rails'
 
 gem 'carrierwave'
-# gem 'fog'
+gem 'fog'
 
 group :test do
   gem 'coveralls', require: false
