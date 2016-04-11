@@ -11,3 +11,4 @@
 /log/*
 !/log/.keep
 /tmp
+/support/.DS_Store
